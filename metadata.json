@@ -1,0 +1,6 @@
+{
+  "name": "VidyaSetu - Offline Gamified Rural Learning",
+  "description": "Offline-first gamified learning platform for rural students with multi-language support (Telugu, Hindi, English), AI doubt solver, interactive lessons, quizzes, and teacher analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
